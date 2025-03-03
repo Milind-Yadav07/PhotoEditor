@@ -10,6 +10,4 @@ This project is a simple, fun Valentine's Day proposal web page with interactive
     * The "No" button dynamically moves away from the user's cursor, making it playfully difficult to click.
 
 ## Technologies Used
-* HTML
-* CSS
-* JavaScript
+
